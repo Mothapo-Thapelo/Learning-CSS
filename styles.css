@@ -1,7 +1,14 @@
 @import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@400;700&display=swap');
 
-/* global styles */
-h1 {
-    font-family: 'Dancing Script', cursive;
-    font-size: 100px;
+/* specificity */
+#logo{
+    color: pink;
+}
+
+.main-heading{
+    color: red;
+}
+
+a{
+    color: saddlebrown;
 }
